@@ -1,0 +1,32 @@
+Latency: 0.027
+Loss Rate: 0
+Bandwitdh: 0
+CPU Load: 0.57, 0.64, 0.74
+Free Mem: 1.72222e+06, 0
+Latency: 0.044
+Loss Rate: 0
+Bandwitdh: 0
+CPU Load: 0.66, 0.66, 0.75
+Free Mem: 1.72222e+06, 0
+Latency: 0.034
+Loss Rate: 0
+Bandwitdh: 0
+CPU Load: 0.71, 0.67, 0.74
+Free Mem: 1.72222e+06, 0
+Latency: 0.046
+Loss Rate: 0
+Bandwitdh: 0
+CPU Load: 0.71, 0.67, 0.74
+Free Mem: 1.72222e+06, 0
+Latency: 0.029
+Loss Rate: 0
+Bandwitdh: 0
+CPU Load: 0.09, 0.03, 0.01
+Free Mem: 1.9429e+06, 0
+Latency: 0.029
+Loss Rate: 0
+Bandwitdh: 0
+CPU Load: 0.23, 0.08, 0.02
+Free Mem: 1.9429e+06, 0
+Latency: 0.033
+Loss Rate: 0
